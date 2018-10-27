@@ -204,9 +204,9 @@
                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                               proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                               proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br>
+                               <a href="">Read More..</a>
                             </p>
-                            <div class="mbr-section-btn align-left py-4"><a class="btn btn-primary display-4" href="#">Read more</a></div>
                         </div>
                     </div>
                 </div>
@@ -232,9 +232,10 @@
                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                               proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                               proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br>
+                               <a href="">Read More..</a>
                             </p>
-                            <div class="mbr-section-btn align-right py-4"><a class="btn btn-primary display-4" href="#">Read more</a></div>
+                           
                         </div>
                     </div>
                     <div class="mbr-figure" style="width: 60%;">
@@ -243,6 +244,7 @@
                 </div>
             </div>
         </div>
+         <div id="button-article" class="mbr-section-btn align-center py-4"><a class="btn btn-primary display-4" href="#">View more</a></div>
     </div>
 </section>
 @endsection

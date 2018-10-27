@@ -16,3 +16,6 @@ Route::get('/', function () {
 });
 
 Route::get('/home','MyController@home');
+
+
+Route::get('/food','MyController@food');
