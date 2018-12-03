@@ -48,8 +48,8 @@
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black display-4" href="#m">Home</a></li><li class="nav-item">
-                    <a class="nav-link link text-black display-4" href="#m">Promo</a>
-                </li><li class="nav-item"><a class="nav-link link text-black display-4" href="#m">Food</a></li><li class="nav-item"><a class="nav-link link text-black display-4" href="#m">Article</a></li>
+                    <a class="nav-link link text-black display-4" href="#m">Food</a>
+                </li><li class="nav-item"><a class="nav-link link text-black display-4" href="#m">Promo</a></li><li class="nav-item"><a class="nav-link link text-black display-4" href="#m">Article</a></li>
                 <li class="nav-item">
                     <a class="nav-link link text-black display-4" href="#m">
                         
