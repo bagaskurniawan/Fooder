@@ -47,11 +47,11 @@
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black display-4" href="#m">Home</a></li><li class="nav-item">
-                    <a class="nav-link link text-black display-4" href="#m">Food</a>
-                </li><li class="nav-item"><a class="nav-link link text-black display-4" href="#m">Promo</a></li><li class="nav-item"><a class="nav-link link text-black display-4" href="#m">Article</a></li>
+            <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-black display-4" href="/home">Home</a></li><li class="nav-item">
+                    <a class="nav-link link text-black display-4" href="/food">Food</a>
+                </li><li class="nav-item"><a class="nav-link link text-black display-4" href="/promo">Promo</a></li><li class="nav-item"><a class="nav-link link text-black display-4" href="/article">Article</a></li>
                 <li class="nav-item">
-                    <a class="nav-link link text-black display-4" href="#m">
+                    <a class="nav-link link text-black display-4" href="/about-us">
                         
                         About Us
                     </a>
@@ -65,10 +65,7 @@
 
 @yield('content')
 
-
-
-
-<section id="page-breaker" class="footer3 cid-r6FVw1VhnO" id="footer3-m">
+<section id="page-breaker" class="footer3 cid-rbe6xdKBF2" id="footer3-1o">
 
     
 
@@ -78,17 +75,23 @@
         <div class="media-container-row content">
             <div class="col-md-2 col-sm-4">
                 <div class="mb-3 img-logo">
-                    <a href="#">
-                         <img src="assets/images/restaurant-cutlery-circular-symbol-of-a-spoon-and-a-fork-in-a-circle-1-192x192.png" alt=“Fooder” title="">
+                    <a href="https://mobirise.co/">
+                         <img src="assets/images/restaurant-cutlery-circular-symbol-of-a-spoon-and-a-fork-in-a-circle-1-192x192.png" alt="Mobirise" title="">
                     </a>
                 </div>
-                <p class="mbr-fonts-style foot-logo display-7">FOODER INC.</p>
+                <p class="mbr-fonts-style foot-logo display-7">Fooder Inc.</p>
             </div>
             <div class="col-md-3 col-sm-4">
                 <p class="mb-4 mbr-fonts-style foot-title display-7">
                     RECENT NEWS
                 </p>
-                <p class="mbr-text mbr-links-column mbr-fonts-style display-7">Food&nbsp;<br>Promo&nbsp;<br>Article&nbsp;<br>About us&nbsp;<br><br></p>
+                <p class="mbr-text mbr-links-column mbr-fonts-style display-7">
+                    <a href="#" class="text-white">About us</a>
+                    <br><a href="#" class="text-white">Services</a>
+                    <br><a href="#" class="text-white">Selected Work</a>
+                    <br><a href="#" class="text-white">Get In Touch</a>
+                    <br><a href="#" class="text-black">Careers</a>
+                </p>
             </div>
             <div class="col-md-3 col-sm-4">
                 <p class="mb-4 mbr-fonts-style foot-title display-7">
@@ -99,7 +102,8 @@
                     <br><a href="#" class="text-white">Design</a>
                     <br><a href="#" class="text-white">Real life</a>
                     <br><a href="#" class="text-white">Science</a>
-                    <br><br></p>
+                    <br><a href="#" class="text-white">Tech</a>
+                </p>
             </div>
             <div class="col-md-4 col-sm-12">
                 <p class="mb-4 mbr-fonts-style foot-title display-7">
@@ -113,10 +117,10 @@
                         Thanks for filling out the form!
                     </div>
 
-                    <form class="form-inline" action="#" method="post" data-form-title="Fooder Form">
-                        <input type="hidden" value="X9mq/k3T7wAgGfDcC5SaaaD/a8ZIuE2lSTQkPF9p0ZwYFki+kHd7MIjSfPKfhN+7YlCL6eD4YGx4QLQDzUn5P/t4S9rCf1jWuK33L96MtLRP8Z6TLhE6OsdDv/vl/t3c" data-form-email="true">
+                    <form class="form-inline" action="https://mobirise.com/" method="post" data-form-title="Mobirise Form">
+                        <input type="hidden" value="zoqY8hfvOcSpPTmkJMwE0AJ3IL/unpckjO17cVfZXwNOHt/whl7liDX2QZST8+hNICN9mQzQQgDl+hpzqEXnPmmxeOs8liexxbxBIFY9QcJO4wpFyL+YeK7y2p06ylVJ" data-form-email="true">
                         <div class="form-group">
-                            <input type="email" class="form-control input-sm input-inverse my-2" name="email" required="" data-form-field="Email" placeholder="Email" id="email-footer3-m">
+                            <input type="email" class="form-control input-sm input-inverse my-2" name="email" required="" data-form-field="Email" placeholder="Email" id="email-footer3-1o">
                         </div>
                         <div class="input-group-btn m-2">
                             <button href="" class="btn btn-primary display-4" type="submit" role="button">Subscribe</button>
@@ -142,22 +146,22 @@
                     <div class="social-list align-right">
                         <div class="soc-item">
                             <a href="https://twitter.com/" target="_blank">
-                                <span class="mbr-iconfont mbr-iconfont-social socicon-twitter socicon" style="color: rgb(250, 190, 34);"></span>
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-twitter socicon" style="color: rgb(250, 190, 34); fill: rgb(250, 190, 34);"></span>
                             </a>
                         </div>
                         <div class="soc-item">
                             <a href="https://www.facebook.com/" target="_blank">
-                                <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon" style="color: rgb(250, 190, 34);"></span>
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon" style="color: rgb(250, 190, 34); fill: rgb(250, 190, 34);"></span>
                             </a>
                         </div>
                         <div class="soc-item">
                             <a href="https://www.youtube.com/" target="_blank">
-                                <span class="mbr-iconfont mbr-iconfont-social socicon-youtube socicon" style="color: rgb(250, 190, 34);"></span>
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-youtube socicon" style="color: rgb(250, 190, 34); fill: rgb(250, 190, 34);"></span>
                             </a>
                         </div>
                         <div class="soc-item">
                             <a href="https://instagram.com/" target="_blank">
-                                <span class="mbr-iconfont mbr-iconfont-social socicon-instagram socicon" style="color: rgb(250, 190, 34);"></span>
+                                <span class="mbr-iconfont mbr-iconfont-social socicon-instagram socicon" style="color: rgb(250, 190, 34); fill: rgb(250, 190, 34);"></span>
                             </a>
                         </div>
                         

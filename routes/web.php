@@ -15,7 +15,11 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/','MyController@home');
 Route::get('/home','MyController@home');
-
-
 Route::get('/food','MyController@food');
+Route::get('/promo','MyController@promo');
+Route::get('/article','MyController@article');
+Route::get('/about-us','MyController@about');
+Route::get('/food-detail','MyController@foodDetail');
+Route::get('/article-detail','MyController@articleDetail');

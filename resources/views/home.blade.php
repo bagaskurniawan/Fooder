@@ -27,7 +27,7 @@
                         <p class="mbr-text mbr-fonts-style display-7">
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                            tempor incididunt ut labore et dolore</p>
-                        <a href="">Chek it out...</a>
+                        <a href="/food-detail">Chek it out...</a>
                     </div>
                 </div>
             </div>
@@ -44,7 +44,7 @@
                         <p class="mbr-text mbr-fonts-style display-7">
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                            tempor incididunt ut labore et dolore</p>
-                           <a href="">Chek it out...</a>
+                           <a href="/food-detail">Chek it out...</a>
                     </div>
                 </div>
             </div>
@@ -62,7 +62,7 @@
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                            tempor incididunt ut labore et dolore
                         </p>
-                        <a href="">Chek it out...</a>
+                        <a href="/food-detail">Chek it out...</a>
                     </div>
                 </div>
             </div>
@@ -80,9 +80,9 @@
                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                            tempor incididunt ut labore et dolore
                         </p>
-                        <a href="">Chek it out...</a>
+                        <a href="/food-detail">Chek it out...</a>
                     </div>
-                    <div class="mbr-section-btn align-right py-4"><a class="btn btn-primary display-4" href="#">View all</a></div>
+                    <div class="mbr-section-btn align-right py-4"><a class="btn btn-primary display-4" href="/food">View all</a></div>
                 </div>
             </div>
         </div>
@@ -162,7 +162,7 @@
                         </p>
                         <a href="">Chek it out...</a>
                     </div>
-                    <div class="mbr-section-btn align-right py-4"><a class="btn btn-primary display-4" href="#">View all</a></div>
+                    <div class="mbr-section-btn align-right py-4"><a class="btn btn-primary display-4" href="/promo">View all</a></div>
                 </div>
             </div>
             
@@ -205,7 +205,7 @@
                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br>
-                               <a href="">Read More..</a>
+                               <a href="/article-detail">Read More..</a>
                             </p>
                         </div>
                     </div>
@@ -233,7 +233,7 @@
                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br>
-                               <a href="">Read More..</a>
+                               <a href="/article-detail">Read More..</a>
                             </p>
                            
                         </div>
@@ -244,7 +244,7 @@
                 </div>
             </div>
         </div>
-         <div id="button-article" class="mbr-section-btn align-center py-4"><a class="btn btn-primary display-4" href="#">View more</a></div>
+         <div id="button-article" class="mbr-section-btn align-center py-4"><a class="btn btn-primary display-4" href="/article">View more</a></div>
     </div>
 </section>
 @endsection
