@@ -33,4 +33,8 @@ class MyController extends Controller
     public function articleDetail() {
         return view('articleDetail');
     }
+
+    public function promoDetail() {
+        return view('promoDetail');
+    }
 }

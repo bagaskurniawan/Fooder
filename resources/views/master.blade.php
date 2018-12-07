@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/003-restaurant-cutlery-circular-symbol-of-a-spoon-and-a-fork-in-a-circle-122x122.png" type="image/x-icon">
   <meta name="description" content="">
-  <title>Home</title>
+  <title>Fooder</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">

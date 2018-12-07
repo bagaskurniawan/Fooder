@@ -23,3 +23,4 @@ Route::get('/article','MyController@article');
 Route::get('/about-us','MyController@about');
 Route::get('/food-detail','MyController@foodDetail');
 Route::get('/article-detail','MyController@articleDetail');
+Route::get('/promo-detail','MyController@promoDetail');

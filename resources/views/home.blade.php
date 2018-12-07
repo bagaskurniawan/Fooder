@@ -106,7 +106,7 @@
                         <p class="mbr-text mbr-fonts-style display-7">
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                            tempor incididunt ut labore et dolore</p>
-                           <a href="">Chek it out...</a>
+                           <a href="/promo-detail">Chek it out...</a>
                     </div>
                 </div>
             </div>
@@ -124,7 +124,7 @@
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                            tempor incididunt ut labore et dolore
                        </p>
-                       <a href="">Chek it out...</a>
+                       <a href="/promo-detail">Chek it out...</a>
                     </div>
                 </div>
             </div>
@@ -142,7 +142,7 @@
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                            tempor incididunt ut labore et dolore
                         </p>
-                        <a href="">Chek it out...</a>
+                        <a href="/promo-detail">Chek it out...</a>
                     </div>
                 </div>
             </div>
@@ -160,7 +160,7 @@
                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                            tempor incididunt ut labore et dolore
                         </p>
-                        <a href="">Chek it out...</a>
+                        <a href="/promo-detail">Chek it out...</a>
                     </div>
                     <div class="mbr-section-btn align-right py-4"><a class="btn btn-primary display-4" href="/promo">View all</a></div>
                 </div>

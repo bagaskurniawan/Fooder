@@ -20,7 +20,7 @@
                         <p class="mbr-text mbr-fonts-style display-7">
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                            tempor incididunt ut labore et dolore</p>
-                           <a href="">Chek it out...</a>
+                           <a href="/promo-detail">Chek it out...</a>
                     </div>
                 </div>
             </div>
@@ -38,7 +38,7 @@
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                            tempor incididunt ut labore et dolore
                        </p>
-                       <a href="">Chek it out...</a>
+                       <a href="/promo-detail">Chek it out...</a>
                     </div>
                 </div>
             </div>
@@ -56,7 +56,7 @@
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                            tempor incididunt ut labore et dolore
                         </p>
-                        <a href="">Chek it out...</a>
+                        <a href="/promo-detail">Chek it out...</a>
                     </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@
                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                            tempor incididunt ut labore et dolore
                         </p>
-                        <a href="">Chek it out...</a>
+                        <a href="/promo-detail">Chek it out...</a>
                     </div>
             </div>
             
@@ -100,7 +100,7 @@
                         <p class="mbr-text mbr-fonts-style display-7">
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                            tempor incididunt ut labore et dolore</p>
-                           <a href="">Chek it out...</a>
+                           <a href="/promo-detail">Chek it out...</a>
                     </div>
                 </div>
             </div>
@@ -118,7 +118,7 @@
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                            tempor incididunt ut labore et dolore
                        </p>
-                       <a href="">Chek it out...</a>
+                       <a href="/promo-detail">Chek it out...</a>
                     </div>
                 </div>
             </div>
@@ -136,7 +136,7 @@
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                            tempor incididunt ut labore et dolore
                         </p>
-                        <a href="">Chek it out...</a>
+                        <a href="/promo-detail">Chek it out...</a>
                     </div>
                 </div>
             </div>
@@ -154,7 +154,7 @@
                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
                            tempor incididunt ut labore et dolore
                         </p>
-                        <a href="">Chek it out...</a>
+                        <a href="/promo-detail">Chek it out...</a>
                     </div>
             </div>
             
