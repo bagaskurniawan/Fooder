@@ -34,12 +34,7 @@
 
                             <div class="card-box">
                                 <p class="block-text mbr-fonts-style display-7">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+                                    Fooder didirikan pada tahun 2018 untuk membantu orang dalam menemukan bisnis lokal yang populer dan autentik yang bergerak pada bidang kuliner. Fooder memiliki fitur interaktif dalam merekomendasikan restoran - restoran terbaik dan tercocok dengan penggunanya. Dengan melakukan klik panah kiri untuk mengabaikan restoran dan klik panah kanan untuk memilih restoran, pengguna akan diarahkan ke halaman rekomendasi restoran sesuai dengan pilihan yang telah pengguna buat sebelumnya. 
                                 </p>
                             </div>
                         </div>

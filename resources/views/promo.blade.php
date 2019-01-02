@@ -15,12 +15,11 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                             Domino's Pizza
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore</p>
-                           <a href="/promo-detail">Chek it out...</a>
+                            Barbeque Pizza Mania Creamy, Enak dan Lezat untuk pilihan pizza Pepper Chicken, Beef Cheese, Chicken Cheese Hanya Rp. 14.091 belum termasuk pajak</p>
+                           <a href="/promo-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -32,13 +31,12 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Mujigae
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore
+                            Mulai dari IDR 50K Set Package untuk menu - menu pilihan Kimchi Fried Rice + Green Tea dan masih banyak lagi
                        </p>
-                       <a href="/promo-detail">Chek it out...</a>
+                       <a href="/promo-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -50,13 +48,12 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            American Grill
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore
+                            Makan siang untuk berdua untuk menu American Beef, Ikon Beef, Bibim Beef dengan memilih 2 hidangan utama ( American Beef / Ikon Beef / Bibim Beef ) dan 2 minuman ( Lemon Squash / Sweet Ice Tea ) Mulai dari 99K
                         </p>
-                        <a href="/promo-detail">Chek it out...</a>
+                        <a href="/promo-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -68,13 +65,12 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Wendy's
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore
+                           Makan bertiga Rp. 50 ribu dengan diskon 40% Paket: 3 ayam, 3 nasi, dan 3 ades 350ml berlaku hingga 26 - 28 April 2018 tersedia juga untuk GoFood
                         </p>
-                        <a href="/promo-detail">Chek it out...</a>
+                        <a href="/promo-detail">Check it out...</a>
                     </div>
             </div>
             
@@ -95,12 +91,11 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Domino's Pizza
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore</p>
-                           <a href="/promo-detail">Chek it out...</a>
+                            Barbeque Pizza Mania Creamy, Enak dan Lezat untuk pilihan pizza Pepper Chicken, Beef Cheese, Chicken Cheese Hanya Rp. 14.091 belum termasuk pajak</p>
+                           <a href="/promo-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -112,13 +107,12 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Mujigae
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore
+                            Mulai dari IDR 50K Set Package untuk menu - menu pilihan Kimchi Fried Rice + Green Tea dan masih banyak lagi
                        </p>
-                       <a href="/promo-detail">Chek it out...</a>
+                       <a href="/promo-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -130,13 +124,12 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                           American Grill
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore
+                            Makan siang untuk berdua untuk menu American Beef, Ikon Beef, Bibim Beef dengan memilih 2 hidangan utama ( American Beef / Ikon Beef / Bibim Beef ) dan 2 minuman ( Lemon Squash / Sweet Ice Tea ) Mulai dari 99K
                         </p>
-                        <a href="/promo-detail">Chek it out...</a>
+                        <a href="/promo-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -148,13 +141,12 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                             Wendy's
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore
+                           Makan bertiga Rp. 50 ribu dengan diskon 40% Paket: 3 ayam, 3 nasi, dan 3 ades 350ml berlaku hingga 26 - 28 April 2018 tersedia juga untuk GoFood
                         </p>
-                        <a href="/promo-detail">Chek it out...</a>
+                        <a href="/promo-detail">Check it out...</a>
                     </div>
             </div>
             

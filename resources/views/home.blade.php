@@ -22,12 +22,11 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Ayam Geprek
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore</p>
-                        <a href="/food-detail">Chek it out...</a>
+                            Merupakan ayam yang dikukus dan kemudian digoreng setelah di bumbui lalu disajikan dengan sambal khusus yang dibuat untuk ayam geprek</p>
+                        <a href="/food-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -39,12 +38,11 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Spaghetti
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore</p>
-                           <a href="/food-detail">Chek it out...</a>
+                            Merupakan makanan berupa pasta yang direbus hingga teksturnya menjadi lembut yang kemudian disajikan dengan berbagai macam saus seperti Bolognise, Mushroom, dsb</p>
+                           <a href="/food-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -56,13 +54,12 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Nasi Goreng
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore
+                            Yaitu nasi yang digoreng dengan menggunakan minyak margarin atau bisa juga dengan mentega yang kemudian diberi kecap dan bumbu - bumbu pelengkap lainnya seperti garam dsb
                         </p>
-                        <a href="/food-detail">Chek it out...</a>
+                        <a href="/food-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -74,13 +71,12 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Sate Ayam
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore
+                           Merupakan makanan yang terbuat dari daging ayam yang dipotong kecil - kecil kemudian dipanggang diatas bara api dan biasanya disajikan dengan bumbu kacang dan kecap
                         </p>
-                        <a href="/food-detail">Chek it out...</a>
+                        <a href="/food-detail">Check it out...</a>
                     </div>
                     <div class="mbr-section-btn align-right py-4"><a class="btn btn-primary display-4" href="/food">View all</a></div>
                 </div>
@@ -101,12 +97,11 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Domino's Pizza
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore</p>
-                           <a href="/promo-detail">Chek it out...</a>
+                            Barbeque Pizza Mania Creamy, Enak dan Lezat untuk pilihan pizza Pepper Chicken, Beef Cheese, Chicken Cheese Hanya Rp. 14.091 belum termasuk pajak</p>
+                           <a href="/promo-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -118,13 +113,12 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Mujigae
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore
+                            Mulai dari IDR 50K Set Package untuk menu - menu pilihan Kimchi Fried Rice + Green Tea dan masih banyak lagi
                        </p>
-                       <a href="/promo-detail">Chek it out...</a>
+                       <a href="/promo-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -136,13 +130,12 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            American Grill
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore
+                            Makan siang untuk berdua untuk menu American Beef, Ikon Beef, Bibim Beef dengan memilih 2 hidangan utama ( American Beef / Ikon Beef / Bibim Beef ) dan 2 minuman ( Lemon Squash / Sweet Ice Tea ) Mulai dari 99K
                         </p>
-                        <a href="/promo-detail">Chek it out...</a>
+                        <a href="/promo-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -154,13 +147,12 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Wendy's
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore
+                           Makan bertiga Rp. 50 ribu dengan diskon 40% Paket: 3 ayam, 3 nasi, dan 3 ades 350ml berlaku hingga 26 - 28 April 2018 tersedia juga untuk GoFood
                         </p>
-                        <a href="/promo-detail">Chek it out...</a>
+                        <a href="/promo-detail">Check it out...</a>
                     </div>
                     <div class="mbr-section-btn align-right py-4"><a class="btn btn-primary display-4" href="/promo">View all</a></div>
                 </div>
@@ -179,7 +171,7 @@
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
                 <h2 class="align-center pb-3 mbr-fonts-style display-2">
-                    Article Title with Solid Background
+                    Most Recent
                 </h2>
             </div>
         </div>
@@ -198,13 +190,8 @@
                     <div class="media-content">
                         <div class="mbr-section-text">
                             <p>
-                               <h4> Lorem ipsum </h4>
-                               Lorem Ipsumdolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                               tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                               quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                               consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                               cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                               proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br>
+                               <h4> Ayam Gepuk Pak Gembus </h4>
+                              Ayam Gepuk Pak Gembus beberapa bulan terakhir menjadi perbincangan. Kesuksesan produk olahan ayam milik Ridho Nurul Adityawan, yang punya nama kecil ‘Gembus’, ini bisa dibilang fenomenal hingga diganjar penghargaan “Rising Business Award 2017” oleh Trans N Co Research. Pasalnya, olahan sederhana berupa ayam goreng dengan sambal bawang ini kini punya sekitar dari 462 cabang di seluruh kawasan Asia Tenggara. <br>
                                <a href="/article-detail">Read More..</a>
                             </p>
                         </div>
@@ -226,13 +213,8 @@
                     <div class="media-content">
                         <div class="mbr-section-text">
                             <p>
-                               <h4> Lorem ipsum </h4>
-                               Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                               tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                               quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                               consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                               cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                               proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br>
+                               <h4> What's Up Cafe </h4>
+                               Dengan tagline terbaru dari What's Up Cafe yaitu "The Real Hangout Place" menawarkan tempat hangout kekinian dengan konsep berbeda dan menarik, dapat dilihat dari konsep tempat serta makanan dan minuman dengan harga yang sangat terjangkau di kantong dan juga fasilitas pendukung seperti wifi dan mainan dan juga spot spot menarik untuk selfie dan berfoto bersama teman - teman, serta adanya live music untuk hiburan bagi para customer yang datang. Menu yang ditawarkan oleh What's Up Cafe adalah sajian "Indomie Kekinian" ala mancanegara seperti Indomie Tom Yum, Kebab Indomie, Indomie Carbonara, dan juga indomie yang sangat special yaitu Indomie Spesial What's Up dengan level kepedasan sesuai keinginan customer. Tidak hanya indomie tapi juga banyak menu kekinian yang ditawarkan oleh What's Up Cafe dan menu yang ditawarkan pun akan selalu mengikuti trend yang sedang hitz di kalangan muda.<br>
                                <a href="/article-detail">Read More..</a>
                             </p>
                            

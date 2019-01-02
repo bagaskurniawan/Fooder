@@ -89,8 +89,7 @@
                                     Address
                                 </h4>
                                 <p class="mbr-content-text mbr-fonts-style display-7">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                    tempor incididunt ut labore et dolore magna aliqua. 
+                                    Jalan Rawa Belong No.29E, RT.3/RW.6, Sukabumi Utara, Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11480
                                 </p>
                             </div>
                         </div>
@@ -102,10 +101,10 @@
                                     Infomation
                                 </h4>
                                 <p class="mbr-content-text mbr-fonts-style display-7">
-                                    1. Lorem ipsum dolor sit amet<br>
-                                    2. Lorem ipsum dolor sit amet<br>
-                                    3. Lorem ipsum dolor sit amet<br>
-                                    4. Lorem ipsum dolor sit amet
+                                   Phone : (021) 5840638<br>
+                                    Whatsapp : 08121800050<br>
+                                    Email : cs.ptyfi@ayamgepukpakgembus.co.id<br>
+                                    Instagram : @ayamgepuk_pusat
                                 </p>
                             </div>
                         </div>
@@ -148,7 +147,7 @@
               <th class="head-item mbr-fonts-style display-7">
                       NAME</th><th  class="head-item mbr-fonts-style display-7">STOCK</th><th class="head-item mbr-fonts-style display-7">
                       CATEGORY</th><th class="head-item mbr-fonts-style display-7">
-                      SALARY</th></tr>
+                      PRICE</th></tr>
             </thead>
 
             <tbody style="color:black">
@@ -158,22 +157,22 @@
               
             <tr > 
                 
-              <td class="body-item mbr-fonts-style display-7">Nasi Goreng</td><td class="body-item mbr-fonts-style display-7">Available</td><td class="body-item mbr-fonts-style display-7">Dessert</td><td class="body-item mbr-fonts-style display-7">$317.000</td></tr><tr>
+              <td class="body-item mbr-fonts-style display-7">Ayam Sambal Bawang + Nasi</td><td class="body-item mbr-fonts-style display-7">Available</td><td class="body-item mbr-fonts-style display-7">Main Course</td><td class="body-item mbr-fonts-style display-7">Rp 17.000</td></tr><tr>
                 
                 
                 
                 
-              <td class="body-item mbr-fonts-style display-7">Mie Goreng</td><td class="body-item mbr-fonts-style display-7">Available</td><td class="body-item mbr-fonts-style display-7">Main Food</td><td class="body-item mbr-fonts-style display-7">$445.500</td></tr><tr>
+              <td class="body-item mbr-fonts-style display-7">Ayam Sambal Bawang</td><td class="body-item mbr-fonts-style display-7">Available</td><td class="body-item mbr-fonts-style display-7">Main Course</td><td class="body-item mbr-fonts-style display-7">Rp 14.000</td></tr><tr>
                 
                 
                 
                 
-              <td class="body-item mbr-fonts-style display-7">Ayam Bakar</td><td class="body-item mbr-fonts-style display-7">Out of Stock</td><td class="body-item mbr-fonts-style display-7">Drink</td><td class="body-item mbr-fonts-style display-7">$152.558</td></tr><tr>
+              <td class="body-item mbr-fonts-style display-7">Tahu</td><td class="body-item mbr-fonts-style display-7">Out of Stock</td><td class="body-item mbr-fonts-style display-7">Side Course</td><td class="body-item mbr-fonts-style display-7">Rp 2.000</td></tr><tr>
                 
                 
                 
                 
-              <td class="body-item mbr-fonts-style display-7">Gulai Ayam</td><td class="body-item mbr-fonts-style display-7">Available</td><td class="body-item mbr-fonts-style display-7">Dessert</td><td class="body-item mbr-fonts-style display-7">$459.146</td></tr></tbody>
+              <td class="body-item mbr-fonts-style display-7">Tempe</td><td class="body-item mbr-fonts-style display-7">Available</td><td class="body-item mbr-fonts-style display-7">Side Course</td><td class="body-item mbr-fonts-style display-7">Rp 2.000</td></tr></tbody>
           </table>
         </div>
         <div class="container table-info-container">

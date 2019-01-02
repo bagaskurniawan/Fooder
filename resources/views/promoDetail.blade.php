@@ -27,8 +27,7 @@
                                     Address
                                 </h4>
                                 <p class="mbr-content-text mbr-fonts-style display-7">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                    tempor incididunt ut labore et dolore magna aliqua. 
+                                    Jalan Rawa Belong No.29E, RT.3/RW.6, Sukabumi Utara, Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11480
                                 </p>
                             </div>
                         </div>
@@ -40,10 +39,10 @@
                                     Infomation
                                 </h4>
                                 <p class="mbr-content-text mbr-fonts-style display-7">
-                                    1. Lorem ipsum dolor sit amet<br>
-                                    2. Lorem ipsum dolor sit amet<br>
-                                    3. Lorem ipsum dolor sit amet<br>
-                                    4. Lorem ipsum dolor sit amet
+                                    Phone : (021) 5840638<br>
+                                    Whatsapp : 08121800050<br>
+                                    Email : cs.ptyfi@ayamgepukpakgembus.co.id<br>
+                                    Instagram : @ayamgepuk_pusat
                                 </p>
                             </div>
                         </div>

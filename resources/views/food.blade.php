@@ -13,12 +13,11 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Ayam Geprek
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore</p>
-                        <a href="/food-detail">Chek it out...</a>
+                            Merupakan ayam yang dikukus dan kemudian digoreng setelah di bumbui lalu disajikan dengan sambal khusus yang dibuat untuk ayam geprek</p>
+                        <a href="/food-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -30,12 +29,11 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Spaghetti
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore</p>
-                           <a href="/food-detail">Chek it out...</a>
+                           Merupakan makanan berupa pasta yang direbus hingga teksturnya menjadi lembut yang kemudian disajikan dengan berbagai macam saus seperti Bolognise, Mushroom, dsb</p>
+                           <a href="/food-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -47,13 +45,12 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Nasi Goreng
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore
+                            Yaitu nasi yang digoreng dengan menggunakan minyak margarin atau bisa juga dengan mentega yang kemudian diberi kecap dan bumbu - bumbu pelengkap lainnya seperti garam dsb
                         </p>
-                        <a href="/food-detail">Chek it out...</a>
+                        <a href="/food-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -65,13 +62,12 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Sate Ayam
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore
+                           Merupakan makanan yang terbuat dari daging ayam yang dipotong kecil - kecil kemudian dipanggang diatas bara api dan biasanya disajikan dengan bumbu kacang dan kecap
                         </p>
-                        <a href="/food-detail">Chek it out...</a>
+                        <a href="/food-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -90,12 +86,11 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Ayam Geprek
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore</p>
-                        <a href="/food-detail">Chek it out...</a>
+                             Merupakan ayam yang dikukus dan kemudian digoreng setelah di bumbui lalu disajikan dengan sambal khusus yang dibuat untuk ayam geprek</p>
+                        <a href="/food-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -107,12 +102,11 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Spaghetti
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore</p>
-                           <a href="/food-detail">Chek it out...</a>
+                            Merupakan makanan berupa pasta yang direbus hingga teksturnya menjadi lembut yang kemudian disajikan dengan berbagai macam saus seperti Bolognise, Mushroom, dsb</p>
+                           <a href="/food-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -124,13 +118,12 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Nasi Goreng
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore
+                            Yaitu nasi yang digoreng dengan menggunakan minyak margarin atau bisa juga dengan mentega yang kemudian diberi kecap dan bumbu - bumbu pelengkap lainnya seperti garam dsb
                         </p>
-                        <a href="/food-detail">Chek it out...</a>
+                        <a href="/food-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
@@ -142,13 +135,12 @@
                     </div>
                     <div class="card-box">
                         <h4 class="card-title pb-3 mbr-fonts-style display-7">
-                            Lorem Ipsum
+                            Sate Ayam
                         </h4>
                         <p class="mbr-text mbr-fonts-style display-7">
-                           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                           tempor incididunt ut labore et dolore
+                           Merupakan makanan yang terbuat dari daging ayam yang dipotong kecil - kecil kemudian dipanggang diatas bara api dan biasanya disajikan dengan bumbu kacang dan kecap
                         </p>
-                        <a href="/food-detail">Chek it out...</a>
+                        <a href="/food-detail">Check it out...</a>
                     </div>
                 </div>
             </div>
